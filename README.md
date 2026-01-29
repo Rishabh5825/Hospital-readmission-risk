@@ -28,10 +28,15 @@ Each row represents a single hospital admission. Patients may appear multiple ti
 
 ## Project Status
 🚧 **Phase 0 – Dataset understanding and problem framing**
+   **Phase 1: Data understanding and problem scoping — completed** 
+   **Phase 2: Feature selection and scope locking — in progress**
+
 
 Work completed so far:
 - Dataset exploration and familiarization
 - Problem definition and scope finalization
+- Initial data exploration and assumptions are documented in `notebooks/01_data_understanding.ipynb`.
+
 
 ---
 
