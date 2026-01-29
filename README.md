@@ -31,7 +31,7 @@ Each row represents a single hospital admission. Patients may appear multiple ti
 
    **Phase 1: Data understanding and problem scoping — completed**
    
-   **Phase 2: Feature selection and scope locking — in progress**
+   **Phase 2: Feature selection and scope locking — completed**
 
 
 Work completed so far:
