@@ -15,7 +15,7 @@ This project aims to explore how historical hospital data can be used to predict
 ---
 
 ## Objective
-To build a probabilistic model that estimates the likelihood of a patient being readmitted within 30 days of discharge, using only information available at discharge time.
+At the time of hospital discharge, predict the probability that a patient will experience an unplanned readmission to the same hospital within 30 days, using only data available at discharge time.
 
 ---
 
