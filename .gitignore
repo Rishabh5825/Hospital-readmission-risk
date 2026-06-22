@@ -1,0 +1,28 @@
+# Virtual Environments
+ml_env/
+venv/
+env/
+.env
+
+# Datasets (Never commit PHI or large data files)
+Dataset/*.csv
+Dataset/*.xlsx
+Dataset/*.json
+
+# Models (Optional: you can commit .pkl if small, but usually best to ignore)
+# models/*.pkl
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Logs
+*.log
+api_audit.log
+
+# IDEs
+.vscode/
+.idea/
+.ipynb_checkpoints/
